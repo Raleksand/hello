@@ -1,1 +1,1 @@
-print("svasta]")
+print("svasta")
